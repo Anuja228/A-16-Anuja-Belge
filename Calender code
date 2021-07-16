@@ -1,3 +1,7 @@
+
+Design a calendar to display months and day
+Of the year
+
 #include <stdio.h>
 int dayNumber(int day, int month, int year)
 {
